@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="120" alt="Angular Logo">
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="120" alt="Angular Logo" style="vertical-align: middle;">
   &nbsp;&nbsp;
-  <img src="https://nodejs.org/static/images/logo.svg" width="130" alt="Node.js">
+  <img src="https://nodejs.org/static/images/logo.svg" width="130" alt="Node.js" style="vertical-align: middle;">
   &nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" width="110" alt="Prisma">
+  <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" width="110" alt="Prisma" style="vertical-align: middle;">
 </p>
 
 # TaskFlow
