@@ -2,6 +2,8 @@
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="120" alt="Angular Logo">
   &nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="120" alt="Node Logo">
+   &nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" width="110" alt="Prisma">
 </p>
 
 # TaskFlow
