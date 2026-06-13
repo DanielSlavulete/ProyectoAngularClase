@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Project Logo">
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="120" alt="Angular Logo">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="120" alt="Node Logo">
 </p>
 
 # TaskFlow
