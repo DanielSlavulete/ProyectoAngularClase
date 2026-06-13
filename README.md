@@ -1,10 +1,10 @@
-<div align="center">
-  <div style="display: inline-flex; align-items: center; gap: 30px;">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="120" alt="Angular Logo">
-    <img src="https://nodejs.org/static/images/logo.svg" width="130" alt="Node.js">
-    <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" width="110" alt="Prisma">
-  </div>
-</div>
+<p align="center">
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" height="60" alt="Angular Logo" align="middle">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://nodejs.org/static/images/logo.svg" height="60" alt="Node.js" align="middle">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" height="60" alt="Prisma" align="middle">
+</p>
 
 # TaskFlow
 
