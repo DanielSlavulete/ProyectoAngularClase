@@ -12,9 +12,9 @@ El proyecto incorpora autenticación mediante JWT, control de acceso por roles, 
 
 ---
 
-## Features
+## Características
 
-### User Features
+### Funcionalidades de usuario
 
 - Registro e inicio de sesión de usuarios.
 - Autenticación mediante JWT.
@@ -26,7 +26,7 @@ El proyecto incorpora autenticación mediante JWT, control de acceso por roles, 
 - Gestión de pedidos simulados.
 - Interfaz dinámica desarrollada en Angular.
 
-### Admin Features
+### Funcionalidades de administrador
 
 - Acceso restringido mediante roles (User / Admin).
 - Rutas protegidas para administradores.
@@ -38,7 +38,7 @@ El proyecto incorpora autenticación mediante JWT, control de acceso por roles, 
 
 ---
 
-## Authentication & Security
+## Autenticación y seguridad
 
 - Autenticación basada en **JSON Web Tokens (JWT)**.
 - Protección de rutas en Angular mediante Guards.
@@ -49,7 +49,7 @@ El proyecto incorpora autenticación mediante JWT, control de acceso por roles, 
 
 ---
 
-## Architecture
+## Arquitectura
 
 ### Frontend
 
@@ -68,26 +68,26 @@ El proyecto incorpora autenticación mediante JWT, control de acceso por roles, 
 - REST API
 - JWT Authentication Middleware
 
-### Database
+### Base de datos
 
 - PostgreSQL
 - Supabase
 
 ---
 
-## Technologies Used
+## Tecnologías utilizadas
 
-| Layer | Technologies |
+| Capa | Tecnologías |
 |------|-------------|
 | Frontend | Angular, TypeScript, Angular CDK, RxJS |
 | Backend | Node.js, Express.js, Prisma ORM |
-| Database | PostgreSQL, Supabase |
-| Authentication | JWT (JSON Web Tokens) |
-| Architecture | REST API |
+| Base de datos | PostgreSQL, Supabase |
+| Autenticación | JWT (JSON Web Tokens) |
+| Arquitectura | REST API |
 
 ---
 
-## Workflow
+## Flujo de trabajo
 
 1. El usuario se registra o inicia sesión.
 2. Se le asigna un token JWT para autenticación.
@@ -99,7 +99,7 @@ El proyecto incorpora autenticación mediante JWT, control de acceso por roles, 
 
 ---
 
-## Academic Project
+## Proyecto académico
 
 Este proyecto fue desarrollado como parte de un trabajo académico del ciclo formativo de **Desarrollo de Aplicaciones Web (DAW)**.
 
@@ -121,6 +121,6 @@ Aunque nació como un proyecto académico, la aplicación fue diseñada siguiend
 
 ---
 
-## Disclaimer
+## Aviso
 
 El sistema de compras incluido es únicamente simulado y no utiliza pasarelas de pago reales ni procesa transacciones económicas.
